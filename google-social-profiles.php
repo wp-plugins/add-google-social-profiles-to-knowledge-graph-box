@@ -3,7 +3,7 @@
 * Plugin Name: Add Google Social Profiles to Knowledge Graph Box
 * Plugin URI: http://palfbapps.com/gsp
 * Description: Display Your Facebook, Twitter & Other Social Accounts In Its Knowledge Graph Boxes
-* Version: 1.0 or whatever version of the plugin (pretty self explanatory)
+* Version: 1.0 
 * Author: Omar Abu Safieh
 * Author URI: http://omarnas.com/
 * License: GPL12
